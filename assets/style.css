@@ -424,19 +424,6 @@ td {
     display: inline-block;
 }
 
-/* Hack to get IRIS-HEP logo on */
-.middle-logo {
-    content: '';
-    background: url("../assets/logos/logo_IRIS-HEP.png") no-repeat;
-    background-size: 100% 100%;
-    width: 196px;
-    height: 108px;
-    position: absolute;
-    bottom: 1.8em;
-    left: 25.5em;
-    display: inline-block;
-}
-
 .title-slide {
     vertical-align: middle;
 }
