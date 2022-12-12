@@ -16,20 +16,50 @@ December 13th, 2022
 .middle-logo[]
 
 ---
-# Introduction and Overview
+# Historical Overview
 
 .kol-1-2.large[
-- In Tuesday's session, Daniel Katz already gave very nice high level overview of software citation .bold[principles] and .bold[tools]
-- This is an .red[opinionated] summary of the tooling landscape and examples of workflows
-   - Full disclosure: Opinions formed from pyhf development and from Scikit-HEP community discussions (c.f. [Eduardo's talk](https://indico.cern.ch/event/1211229/contributions/5150204/)).
-- Meant to be recommendations to software developers on making your work as .bold[easy to cite as possible]
-   - These recommendations can transfer to experiment software as well
+- 2010
 ]
 .kol-1-2[
 <br><br>
 .center.width-100[[![dan-katz-intro](figures/dan-katz-intro.png)](https://indico.cern.ch/event/1211229/contributions/5120849/)]
 .center[[Daniel Katz's talk](https://indico.cern.ch/event/1211229/contributions/5120849/)]
 ]
+
+---
+# Why is the likelihood important?
+
+.kol-1-2.width-90[
+<br>
+- High information-density summary of analysis
+- Almost everything we do in the analysis ultimately affects the likelihood and is encapsulated in it
+   - Trigger
+   - Detector
+   - Systematic Uncertainties
+   - Event Selection
+- Unique representation of the analysis to preserve
+]
+.kol-1-2.width-100[
+<br><br>
+[![likelihood_connections](figures/likelihood_connections.png)](https://indico.cern.ch/event/839382/contributions/3521168/)
+]
+
+---
+# Likelihood serialization...
+
+.center[...making good on [19 year old agreement to publish likelihoods](https://indico.cern.ch/event/746178/contributions/3396797/)]
+
+.center.width-90[
+[![likelihood_publishing_agreement](figures/likelihood_publishing_agreement.png)](https://cds.cern.ch/record/411537)
+]
+
+.center[([1st Workshop on Confidence Limits, CERN, 2000](http://inspirehep.net/record/534129))]
+
+.bold[This hadn't been done in HEP until now]
+- In an "open world" of statistics this is a difficult problem to solve
+- What to preserve and how? All of ROOT?
+- Idea: Focus on a single more tractable binned model first
 
 ---
 # Summary
