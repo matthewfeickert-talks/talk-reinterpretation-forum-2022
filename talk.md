@@ -55,29 +55,13 @@ December 13th, 2022
 # Historical Overview
 
 .kol-1-2.large[
-- 2010
+- 2000: Likelihood publishing recommended at [1st Workshop on Confidence Limits, CERN](http://inspirehep.net/record/534129)
 ]
 .kol-1-2[
 <br><br>
-.center.width-100[[![dan-katz-intro](figures/dan-katz-intro.png)](https://indico.cern.ch/event/1211229/contributions/5120849/)]
-.center[[Daniel Katz's talk](https://indico.cern.ch/event/1211229/contributions/5120849/)]
+<br><br>
+.width-100[[![likelihood_publishing_agreement](figures/likelihood_publishing_agreement.png)](https://cds.cern.ch/record/411537)]
 ]
-
----
-# Likelihood serialization...
-
-.center[...making good on [19 year old agreement to publish likelihoods](https://indico.cern.ch/event/746178/contributions/3396797/)]
-
-.center.width-90[
-[![likelihood_publishing_agreement](figures/likelihood_publishing_agreement.png)](https://cds.cern.ch/record/411537)
-]
-
-.center[([1st Workshop on Confidence Limits, CERN, 2000](http://inspirehep.net/record/534129))]
-
-.bold[This hadn't been done in HEP until now]
-- In an "open world" of statistics this is a difficult problem to solve
-- What to preserve and how? All of ROOT?
-- Idea: Focus on a single more tractable binned model first
 
 ---
 # Summary
