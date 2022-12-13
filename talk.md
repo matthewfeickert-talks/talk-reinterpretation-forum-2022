@@ -221,32 +221,26 @@ December 13th, 2022
 ]
 
 ---
-# Summary
-.kol-2-3.huge[
-- Build community practices on top of .bold[established standards]
-   <!-- - There are professional communities at work building tools, so we should join them, not rebuild a wheel -->
-- If citation of your software is important to you, .bold[make it easy] for a user to find your citation information
-- Modern standards like `CITATION.cff` allow for .bold[single source of citation information] that can be exported as needed
-- Long term archives + [FAIR practices](https://indico.cern.ch/event/1211229/contributions/5120857/)
-   - Zenodo provides automatically release information each release
-]
-.kol-1-3[
-.center.width-80[[![CFF-logo](figures/CFF-logo.png)](https://citation-file-format.github.io/)]
+# Future work and today's focus
 
-.center.width-100[[![zenodo-logo](figures/zenodo-logo.svg)](https://zenodo.org/)]
+.kol-1-2.large[
+- Lots of exciting work in the publishing models landscape!
+- Getting as many published and useable full statistical models as possible
+   - Ongoing work in CMS looking towards publishing and use of full statistical models
+- Making models published in different formats interoperable
+   - Comparing and translating between HistFactory and CMS Combine serializations
+- Creating new model formalisms that allow for greater adoption
+   - HEP Statistics Serialization and JSON schemas
+]
+.kol-1-2[
+<br><br>
+.center.width-100[[![today-agenda](figures/today-agenda.png)](https://indico.cern.ch/event/1197680/sessions/466366/#20221213)]
 ]
 
 ---
 class: end-slide, center
 
 .huge[Backup]
-
----
-# Does any of this actually work?
-
-As mentioned, these opinions have been formed from developing pyhf, and the citation count for the [JOSS paper](https://doi.org/10.21105/joss.02823) has increased each year.
-
-.center.width-100[[![pyhf-inspire-citations-count](figures/pyhf-inspire-citations-count.png)](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=refersto%3Arecid%3A1845084&ui-citation-summary=true)]
 
 ---
 
