@@ -52,10 +52,25 @@ December 13th, 2022
 ]
 
 ---
+<!-- Slide 1 -->
 # Historical Overview
 
 .kol-1-2.large[
-- 2000: Likelihood publishing recommended at [1st Workshop on Confidence Limits, CERN](http://inspirehep.net/record/534129)
+- .bold[2000]: Likelihood publishing recommended at [1st Workshop on Confidence Limits, CERN](http://inspirehep.net/record/534129)
+]
+.kol-1-2[
+<br><br>
+<br><br>
+.width-100[[![likelihood_publishing_agreement](figures/likelihood_publishing_agreement.png)](https://cds.cern.ch/record/411537)]
+]
+
+---
+<!-- Slide 2 -->
+# Historical Overview
+
+.kol-1-2.large[
+- .bold[2000]: Likelihood publishing recommended at [1st Workshop on Confidence Limits, CERN](http://inspirehep.net/record/534129)
+- .bold[201X]: Next thing, probably CMS publishing
 ]
 .kol-1-2[
 <br><br>
