@@ -62,6 +62,8 @@ December 13th, 2022
 <br><br>
 <br><br>
 .width-100[[![likelihood_publishing_agreement](figures/likelihood_publishing_agreement.png)](https://cds.cern.ch/record/411537)]
+
+.center[DOI: [10.5170/CERN-2000-005](https://inspirehep.net/literature/534129)]
 ]
 
 ---
@@ -74,6 +76,7 @@ December 13th, 2022
 ]
 .kol-1-2[
 .width-100[[![les-houches-recommendations](figures/les-houches-recommendations.png)](https://inspirehep.net/literature/1093520)]
+.center[DOI: [10.1140/epjc/s10052-012-1976-3](https://inspirehep.net/literature/1093520)]
 ]
 
 ---
@@ -87,6 +90,8 @@ December 13th, 2022
 ]
 .kol-1-2[
 .width-100[[![hepdata_workspaces](figures/hepdata_workspaces.png)](https://www.hepdata.net/record/106539)]
+
+.center[[https://www.hepdata.net/record/106539](https://www.hepdata.net/record/106539)]
 ]
 
 ---
@@ -102,6 +107,8 @@ December 13th, 2022
 .kol-1-2[
 <br><br>
 .width-100[[![CMS-note-2017-001](figures/CMS-note-2017-001.png)](https://cds.cern.ch/record/2242860/)]
+
+.center[[CMS-NOTE-2017-001](https://cds.cern.ch/record/2242860/)]
 ]
 
 ---
@@ -118,6 +125,8 @@ December 13th, 2022
 .kol-1-2[
 <br><br>
 .width-100[[![HEPData_likelihoods](figures/HEPData_likelihoods.png)](https://www.hepdata.net/record/ins1748602)]
+
+.center[DOI: [10.17182/hepdata.89408](https://doi.org/10.17182/hepdata.89408.v3/r2)]
 ]
 
 ---
@@ -135,6 +144,8 @@ December 13th, 2022
 .kol-1-2[
 <br><br>
 .width-100[[![PUB_note_cover](figures/PUB_note_cover.png)](https://inspirehep.net/literature/1795223)]
+
+.center[[ATL-PHYS-PUB-2019-029](https://inspirehep.net/literature/1795223)]
 ]
 
 ---
@@ -153,6 +164,8 @@ December 13th, 2022
 .kol-1-2[
 <br><br>
 .width-100[[![reinterpretation-forum-recommendations](figures/reinterpretation-forum-recommendations.png)](https://inspirehep.net/literature/1785921)]
+
+.center[DOI: [10.21468/SciPostPhys.9.2.022](https://inspirehep.net/literature/1785921)]
 ]
 
 ---
@@ -175,6 +188,8 @@ December 13th, 2022
 
 [Feedback on use of public Likelihoods](https://indico.cern.ch/event/957797/contributions/4026032/), Sabine Kraml
 (ATLAS Exotics + SUSY Reinterpretations Workshop)
+
+.center[DOI: [10.1016/j.cpc.2021.107909](https://inspirehep.net/literature/1814793)]
 ]
 
 ---
@@ -195,6 +210,8 @@ December 13th, 2022
 .kol-1-2[
 <br><br>
 .width-100[[![publishing-statistical-models-paper](figures/publishing-statistical-models-paper.png)](https://inspirehep.net/literature/1919763)]
+
+.center[DOI: [10.21468/SciPostPhys.12.1.037](https://inspirehep.net/literature/1919763)]
 ]
 
 ---
@@ -214,10 +231,11 @@ December 13th, 2022
 - .bold[2022]: Snowmass 2022 white paper and COMPF07 recommendations
 ]
 .kol-1-2[
-<br>
 .width-100[[![snowmass-white-paper-cover](figures/snowmass-white-paper-cover.png)](https://inspirehep.net/literature/2054747)]
+.center[arXiv: [2203.10057](https://inspirehep.net/literature/2054747)]
 
 .width-100[[![snowmass-compf7-recommendations](figures/snowmass-compf7-recommendations.png)](https://inspirehep.net/literature/2153139)]
+.center[arXiv: [2209.08054](https://inspirehep.net/literature/2153139)]
 ]
 
 ---
