@@ -16,7 +16,7 @@ December 13th, 2022
 ---
 # Starting with the important information
 
-.center.large.bold[Work hard to publish full statistical models now]
+.center.large.bold[Start publishing full statistical models now]
 
 .kol-1-2.large[
 
