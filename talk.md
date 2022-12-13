@@ -13,7 +13,43 @@ count: false
 <br>
 December 13th, 2022
 
-.middle-logo[]
+---
+# Starting with the important information
+
+.center.large.bold[Work hard to publish full statistical models now]
+
+.kol-1-2.large[
+
+.center.width-100[[![recommendation-tall](figures/recommendation-tall.png)](https://inspirehep.net/literature/1919763)]
+<!-- .center.width-100[[![full-model-recommendation](figures/full-model-recommendation.png)](https://inspirehep.net/literature/1919763)] -->
+
+.center.large[[Publishing statistical models: Getting the most out of particle physics experiments](https://inspirehep.net/literature/1919763)]
+]
+.kol-1-2[
+
+.center.width-100[[![snowmass-recommendations](figures/snowmass-recommendations.png)](https://inspirehep.net/literature/2054747)]
+
+.center[[Data and Analysis Preservation, Recasting, and Reinterpretation](https://inspirehep.net/literature/2054747) (Snowmass 2022 whitepaper)]
+.center[[Reinterpretation and Long-Term Preservation of Data and Code](https://inspirehep.net/literature/2153139) (Snowmass 2022 recommendations)]
+]
+
+---
+# Why is the full statistical model important?
+
+.kol-1-2.large[
+- High information-density summary of analysis
+- Almost everything we do in the analysis ultimately affects the likelihood function from the statistical model and is encapsulated in it
+   - Trigger
+   - Detector
+   - Systematic Uncertainties
+   - Event Selection
+- Unique representation of the analysis to preserve
+]
+.kol-1-2.large[
+.gray[When considering down-stream functionality, the .bold[full statistical model] together with the corresponding data are the .bold[gold standard] as they .bold[enable combinations, reinterpretations, and the generation of synthetic or pseudo data] ("toy Monte Carlo") that are typically needed for frequentist procedures (see e.g. Section 4.2.2), or for validating statistical procedures.]
+
+.center.large[[Publishing statistical models: Getting the most out of particle physics experiments](https://inspirehep.net/literature/1919763)]
+]
 
 ---
 # Historical Overview
@@ -25,24 +61,6 @@ December 13th, 2022
 <br><br>
 .center.width-100[[![dan-katz-intro](figures/dan-katz-intro.png)](https://indico.cern.ch/event/1211229/contributions/5120849/)]
 .center[[Daniel Katz's talk](https://indico.cern.ch/event/1211229/contributions/5120849/)]
-]
-
----
-# Why is the likelihood important?
-
-.kol-1-2.width-90[
-<br>
-- High information-density summary of analysis
-- Almost everything we do in the analysis ultimately affects the likelihood and is encapsulated in it
-   - Trigger
-   - Detector
-   - Systematic Uncertainties
-   - Event Selection
-- Unique representation of the analysis to preserve
-]
-.kol-1-2.width-100[
-<br><br>
-[![likelihood_connections](figures/likelihood_connections.png)](https://indico.cern.ch/event/839382/contributions/3521168/)
 ]
 
 ---
